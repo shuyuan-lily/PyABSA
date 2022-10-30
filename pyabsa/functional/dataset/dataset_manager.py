@@ -48,6 +48,7 @@ class DatasetItem(list):
 
 
 class ABSADatasetList(list):
+
     # SemEval
     Laptop14 = DatasetItem('Laptop14', '113.Laptop14')
     Restaurant14 = DatasetItem('Restaurant14', '114.Restaurant14')
